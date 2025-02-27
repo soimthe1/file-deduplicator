@@ -51,14 +51,15 @@ This project showcases Rust’s strengths:
 ## Usage
 ### Basic Command
 Scan a directory for duplicates:
-    ```bash
-    ./target/release/file-deduplicator scan --dir /path/to/directory
-    ```
+```bash
+./target/release/file-deduplicator scan --dir /path/to/directory
+```
+
 ### Interactive mode
 Scan and choose which duplicates to delete:
-    ```bash
-    ./target/release/file-deduplicator scan --dir /path/to/directory --interactive
-    ```
+```bash
+./target/release/file-deduplicator scan --dir /path/to/directory --interactive
+```
 
 ### Options
 - `--dir <path>`: Directory to scan (default: current directory .).

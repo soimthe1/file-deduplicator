@@ -110,7 +110,7 @@ Contributions are welcome! To contribute:
 5. Please include tests and update this README if needed.
 
 ## License
-This project is licensed under the MIT License.
+This project is licensed under the MIT [LICENSE](LICENSE).
 
 ## Acknowledgments
 - Built with Rust.
